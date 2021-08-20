@@ -1,0 +1,57 @@
+style.css
+p {
+    marge-haut :  0 px ;
+  }
+   
+  jeu de champs {
+    marge en bas :  20 px ;
+    remplissage :  15 px ;
+     
+  }
+   
+  légende {
+    remplissage :  0 px  5 px ;
+    font-weight : gras;
+    font-variant : petites majuscules;
+  }
+   
+  étiquette {
+    largeur :  100 px ;
+    affichage : bloc en ligne ;
+    vertical-align : haut;
+    marge :  6 px ;
+  }
+   
+    
+  em {
+    font-weight : gras;
+    font-style : normal;
+    couleur :  # f00 ;
+  }
+    
+  entrée : focus {
+    fond :  # eaeaea ;
+  }
+   
+   
+  sélectionnez {
+    largeur :  190 px ;
+  } 
+
+   
+  entrée [ type = soumettre ] {
+    largeur :  160 px ;
+    remplissage :  20 px ;
+  }
+
+
+  @media screen et ( max-width  :  400 px ) {
+
+    # date_inscription {
+      marge :  0 ;
+      affichage : bloc;
+  }
+
+  }
+ 
+© 2021 GitHub, Inc.
